@@ -1,0 +1,63 @@
+<style>
+
+    body {
+        background-color: white;
+    }
+
+    h1, .centerText {
+        color: black;
+        text-align: center;
+    }
+
+    h3{
+        color: yellow;
+    }
+
+    li {
+        font-size: 24px;
+        font-family: cursive;
+    }
+
+    .colorRed{
+        color: red;
+    }
+
+    .colorBlue{
+        color: blue;
+    }
+        .colorGreen{
+        color: green;
+    }
+
+    .bigFont{
+        font-size: 30px;
+    }
+    
+    .tinyFont{
+        font-size: 9px;
+    }
+
+
+    .changeFont{
+        font-family: "Arial";
+    }
+
+    .multipleAttr{
+        color: orange;
+        font-size: 40px;
+        font-weight: bold;
+    }
+    .styledFont{
+        color: green;
+        font-family: "Verdana";
+        font-size: 16px;
+    }
+
+    .picAttributes {
+        border-width: 8px;
+        border-style: solid;
+        color: orange;
+    }
+      
+
+</style> 
